@@ -1,0 +1,1 @@
+**Loss Ratio** = IncurredLoss/EarnedPremium
